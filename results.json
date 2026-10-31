@@ -1,0 +1,212 @@
+[
+ {
+  "effort": "small",
+  "q": "If nobody searches for a whole month, what am I still paying for?",
+  "rank": 1,
+  "n": 6,
+  "secs": 2.04,
+  "cost": {
+   "amount": "0.001000",
+   "currency": "USD"
+  },
+  "served": "small",
+  "top": "BLOG / PRODUCT\n\n## A search bill that follows your questions.\nYour collection can stay large while search activity comes and goes. Those are two different thing",
+  "warnings": []
+ },
+ {
+  "effort": "small",
+  "q": "How much does it cost to just keep a gigabyte of files sitting there?",
+  "rank": 1,
+  "n": 6,
+  "secs": 1.53,
+  "cost": {
+   "amount": "0.001000",
+   "currency": "USD"
+  },
+  "served": "small",
+  "top": "BLOG / PRODUCT\n\n## A search bill that follows your questions.\nYour collection can stay large while search activity comes and goes. Those are two different thing",
+  "warnings": []
+ },
+ {
+  "effort": "small",
+  "q": "Should I check what the search pulled up before I trust the chatbot's reply?",
+  "rank": 1,
+  "n": 6,
+  "secs": 1.41,
+  "cost": {
+   "amount": "0.001000",
+   "currency": "USD"
+  },
+  "served": "small",
+  "top": "BLOG / FIELD NOTES\n\n## Give your AI something worth reading.\nA fluent answer can still miss the point. Better retrieval starts by asking what evidence the answe",
+  "warnings": []
+ },
+ {
+  "effort": "small",
+  "q": "Do I have to build and run my own vector pipeline?",
+  "rank": 1,
+  "n": 6,
+  "secs": 1.6,
+  "cost": {
+   "amount": "0.001000",
+   "currency": "USD"
+  },
+  "served": "small",
+  "top": "BLOG / PERSPECTIVE\n\n## You wanted search. How did it become an embedding project?\nSemantic search should start with the question your customer needs answered. T",
+  "warnings": []
+ },
+ {
+  "effort": "small",
+  "q": "What kinds of tricky test questions should I put in my test set?",
+  "rank": 1,
+  "n": 6,
+  "secs": 1.23,
+  "cost": {
+   "amount": "0.001000",
+   "currency": "USD"
+  },
+  "served": "small",
+  "top": ".\nStart with a small set of representative questions and the passages you would want returned. Include awkward wording, exact identifiers, and missing answers. ",
+  "warnings": []
+ },
+ {
+  "effort": "medium",
+  "q": "If nobody searches for a whole month, what am I still paying for?",
+  "rank": 1,
+  "n": 6,
+  "secs": 3.69,
+  "cost": {
+   "amount": "0.002500",
+   "currency": "USD"
+  },
+  "served": "medium",
+  "top": "BLOG / PRODUCT\n\n## A search bill that follows your questions.\nYour collection can stay large while search activity comes and goes. Those are two different thing",
+  "warnings": []
+ },
+ {
+  "effort": "medium",
+  "q": "How much does it cost to just keep a gigabyte of files sitting there?",
+  "rank": 1,
+  "n": 6,
+  "secs": 2.87,
+  "cost": {
+   "amount": "0.002500",
+   "currency": "USD"
+  },
+  "served": "medium",
+  "top": "BLOG / PRODUCT\n\n## A search bill that follows your questions.\nYour collection can stay large while search activity comes and goes. Those are two different thing",
+  "warnings": []
+ },
+ {
+  "effort": "medium",
+  "q": "Should I check what the search pulled up before I trust the chatbot's reply?",
+  "rank": 1,
+  "n": 6,
+  "secs": 2.55,
+  "cost": {
+   "amount": "0.002500",
+   "currency": "USD"
+  },
+  "served": "medium",
+  "top": "BLOG / FIELD NOTES\n\n## Give your AI something worth reading.\nA fluent answer can still miss the point. Better retrieval starts by asking what evidence the answe",
+  "warnings": []
+ },
+ {
+  "effort": "medium",
+  "q": "Do I have to build and run my own vector pipeline?",
+  "rank": 1,
+  "n": 6,
+  "secs": 2.53,
+  "cost": {
+   "amount": "0.002500",
+   "currency": "USD"
+  },
+  "served": "medium",
+  "top": "BLOG / PERSPECTIVE\n\n## You wanted search. How did it become an embedding project?\nSemantic search should start with the question your customer needs answered. T",
+  "warnings": []
+ },
+ {
+  "effort": "medium",
+  "q": "What kinds of tricky test questions should I put in my test set?",
+  "rank": 1,
+  "n": 6,
+  "secs": 2.56,
+  "cost": {
+   "amount": "0.002500",
+   "currency": "USD"
+  },
+  "served": "medium",
+  "top": ".\nStart with a small set of representative questions and the passages you would want returned. Include awkward wording, exact identifiers, and missing answers. ",
+  "warnings": []
+ },
+ {
+  "effort": "large",
+  "q": "If nobody searches for a whole month, what am I still paying for?",
+  "rank": 1,
+  "n": 6,
+  "secs": 2.91,
+  "cost": {
+   "amount": "0.010000",
+   "currency": "USD"
+  },
+  "served": "large",
+  "top": "BLOG / PRODUCT\n\n## A search bill that follows your questions.\nYour collection can stay large while search activity comes and goes. Those are two different thing",
+  "warnings": []
+ },
+ {
+  "effort": "large",
+  "q": "How much does it cost to just keep a gigabyte of files sitting there?",
+  "rank": 1,
+  "n": 6,
+  "secs": 2.6,
+  "cost": {
+   "amount": "0.010000",
+   "currency": "USD"
+  },
+  "served": "large",
+  "top": "BLOG / PRODUCT\n\n## A search bill that follows your questions.\nYour collection can stay large while search activity comes and goes. Those are two different thing",
+  "warnings": []
+ },
+ {
+  "effort": "large",
+  "q": "Should I check what the search pulled up before I trust the chatbot's reply?",
+  "rank": 1,
+  "n": 6,
+  "secs": 3.09,
+  "cost": {
+   "amount": "0.010000",
+   "currency": "USD"
+  },
+  "served": "large",
+  "top": "BLOG / FIELD NOTES\n\n## Give your AI something worth reading.\nA fluent answer can still miss the point. Better retrieval starts by asking what evidence the answe",
+  "warnings": []
+ },
+ {
+  "effort": "large",
+  "q": "Do I have to build and run my own vector pipeline?",
+  "rank": 1,
+  "n": 6,
+  "secs": 3.18,
+  "cost": {
+   "amount": "0.010000",
+   "currency": "USD"
+  },
+  "served": "large",
+  "top": "BLOG / PERSPECTIVE\n\n## You wanted search. How did it become an embedding project?\nSemantic search should start with the question your customer needs answered. T",
+  "warnings": []
+ },
+ {
+  "effort": "large",
+  "q": "What kinds of tricky test questions should I put in my test set?",
+  "rank": 1,
+  "n": 6,
+  "secs": 3.43,
+  "cost": {
+   "amount": "0.010000",
+   "currency": "USD"
+  },
+  "served": "large",
+  "top": ".\nStart with a small set of representative questions and the passages you would want returned. Include awkward wording, exact identifiers, and missing answers. ",
+  "warnings": []
+ }
+]
